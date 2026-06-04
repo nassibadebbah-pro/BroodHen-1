@@ -59,8 +59,6 @@ Para ejecutar la aplicación BroodHen en tu dispositivo, asegúrate de cumplir c
 - Interfaz fácil de usar: La aplicación cuenta con una interfaz intuitiva y fácil de usar para que los usuarios puedan interactuar sin complicaciones.
 
 ## Contribuyentes
-
-- Louay Ben Abdrrahman
 - Nassiba Debbah
 
 ## Cómo contribuir
@@ -79,9 +77,8 @@ Si deseas contribuir al desarrollo de la aplicación, puedes:
 
 El reparto final de tareas y las horas de dedicación de cada miembro del grupo están disponibles en el siguiente enlace:
 
-- **[Reparto de Tareas y Horas de Trabajo - Google Sheets](https://docs.google.com/spreadsheets/d/1Q8L0jBgR7SnZz6tWi8LzNZM_-NKdhdmzgxeO3wfSEcE/edit?gid=0#gid=0)**
 
 
 
 
-Para contactarnos o hacer consultas, puedes enviarnos un correo a: [lb000059@red.ujaen.es o dn000014@red.ujaen.es].
+Para contactarnos o hacer consultas, puedes enviarnos un correo a: [nassibadebbah@gmail.com].
